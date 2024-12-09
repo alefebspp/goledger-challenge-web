@@ -5,7 +5,7 @@ import SideBar from "@/components/SideBar";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata = {
-  title: "Spotify-like Streaming App",
+  title: "Spotify-like",
   description: "CRUD operations for artists, albums, songs, and playlists",
 };
 
